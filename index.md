@@ -26,10 +26,22 @@ but we digress.</sub>
 The Team
 ---------
 
-* Hemanth Sabella: Club Admin
+**Management:**
+
 * Aneesh Kumar: Club Admin
+* Hemanth Sabella: Club Admin
 * Manoj Gulati: Mentor
 * Sanchit Agarwal: Mentor
+
+**Members:**
+
+* Aryan Saini
+* Pulkit Goel
+* Radhika Ghosal
+* Shreyans Mongia
+* Shubham Khanna
+* Siddharth Chandra
+* Tushar Kataria
 
 Contact
 ---------
