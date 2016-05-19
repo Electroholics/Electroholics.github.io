@@ -27,7 +27,7 @@ but we digress.</sub>
 **Management:**
 
 * Aneesh Kumar: Club Admin
-* Hemanth Sabella: Club Admin
+* Hemanth Sabbella: Club Admin
 * Manoj Gulati: Mentor
 * Sanchit Agarwal: Mentor
 
