@@ -23,7 +23,7 @@ Coming soon!
 |  TinkerEve[5] | [Intro to FPGAs](https://github.com/Electroholics/Docs/blob/master/Slides/Introduction%20to%20FPGA.pdf) |
 |  TinkerEve[4] | Discussion about Projects |
 |  TinkerEve[3] | [PCB Designing](https://github.com/Electroholics/Docs/blob/master/Slides/Session-3%20%5B16-09-2015%5D.pdf) |
-|  TinkerEve[2] | [3D Printing](https://github.com/Electroholics/Docs/blob/master/Slides/Session-3%20%5B16-09-2015%5D.pdf) |
+|  TinkerEve[2] | 3D Printing |
 |  TinkerEve[1] | [Power Supply Design](https://github.com/Electroholics/Docs/blob/master/Slides/Session-1%20%5B01-09-15%5D.pdf) |
 |  TinkerEve[0] | [Introduction](https://github.com/Electroholics/Docs/blob/master/Slides/Session-0%20%5BIntro%5D%5B25-08-2015%5D.pdf) |
 
