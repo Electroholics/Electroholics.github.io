@@ -7,8 +7,7 @@ Electroholics is a group of hardware enthusiasts from IIIT-Delhi.
 We believe in the spirit of creativity and open knowledge, and using
 these to make awesome things.
 
-How to Join
-------------
+## How to Join
 
 If you love tinkering around with circuits, or programming microcontrollers
 like the Arduino<sup>1</sup> to do interesting tasks, this club is for you.
@@ -23,8 +22,7 @@ those at any time and get your hands dirty.
 <sub>1: The Arduino isn't a microcontroller, it's technically a microcontroller board,
 but we digress.</sub>
 
-The Team
----------
+## The Team
 
 **Management:**
 
@@ -43,8 +41,7 @@ The Team
 * Siddharth Chandra
 * Tushar Kataria
 
-Contact
----------
+## Contact
 
 ECE Club Room, Third Floor  
 Student Center  
