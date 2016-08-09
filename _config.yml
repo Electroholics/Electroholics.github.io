@@ -4,7 +4,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://electroholics.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: Electroholics | IIIT-Delhi
   avatar:
