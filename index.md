@@ -26,20 +26,23 @@ but we digress.</sub>
 
 **Management:**
 
-* Aneesh Kumar: Club Admin
-* Hemanth Sabbella: Club Admin
-* Manoj Gulati: Mentor
-* Sanchit Agarwal: Mentor
+* Pulkit Goel: Club Coordinator
+* Radhika Ghosal: Club Coordinator
 
-**Members:**
+**Admins:**
 
 * Aryan Saini
-* Pulkit Goel
-* Radhika Ghosal
 * Shreyans Mongia
 * Shubham Khanna
 * Siddharth Chandra
-* Tushar Kataria
+* Syesha Girdher
+
+**Past Admins**
+
+* Aneesh Kumar
+* Hemanth Sabbella
+* Manoj Gulati
+* Sanchit Agarwal
 
 ## Contact
 
