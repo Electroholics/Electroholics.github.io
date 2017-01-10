@@ -37,7 +37,7 @@ but we digress.</sub>
 * Siddharth Chandra
 * Syesha Girdher
 
-**Past Admins**
+**Past Admins:**
 
 * Aneesh Kumar
 * Hemanth Sabbella
