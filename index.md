@@ -37,13 +37,6 @@ but we digress.</sub>
 * Siddharth Chandra
 * Syesha Girdher
 
-**Past Admins:**
-
-* Aneesh Kumar
-* Hemanth Sabbella
-* Manoj Gulati
-* Sanchit Agarwal
-
 ## Contact
 
 ECE Club Room, Third Floor  
