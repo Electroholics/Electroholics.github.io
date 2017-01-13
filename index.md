@@ -24,10 +24,10 @@ but we digress.</sub>
 
 ## The Team
 
-**Management:**
+**Coordinators:**
 
-* Pulkit Goel: Club Coordinator
-* Radhika Ghosal: Club Coordinator
+* Pulkit Goel
+* Radhika Ghosal
 
 **Admins:**
 
