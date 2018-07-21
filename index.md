@@ -26,20 +26,19 @@ but we digress.</sub>
 
 **Coordinators:**
 
-* Pulkit Goel
-* Radhika Ghosal
+* Shivam Aggarwal
+* Raghavv Goel
 
 **Admins:**
 
-* Aryan Saini
-* Shreyans Mongia
-* Shubham Khanna
-* Siddharth Chandra
-* Syesha Girdher
+* Anant Sharma
+* Ankur Rastogi
+* Sajag Agarwal
+* Navneet Anand
 
 ## Contact
 
-ECE Club Room, Third Floor  
+ECE Club Room, Third Floor
 Student Center  
 IIIT-Delhi
 
